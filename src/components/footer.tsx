@@ -1,4 +1,3 @@
-import { BsDiscord, BsInstagram, BsYoutube } from "react-icons/bs";
 import logo from "../assets/img1.png";
 import { SocialMedia } from "./social";
 

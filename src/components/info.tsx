@@ -1,5 +1,4 @@
 import { BiArrowToLeft } from "react-icons/bi";
-import { FcStart } from "react-icons/fc";
 
 export function Information() {
   return (
