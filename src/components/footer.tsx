@@ -3,9 +3,9 @@ import { SocialMedia } from "./social";
 
 export function Footer() {
   return (
-    <footer className="w-full h-1/2 mt-40 bg-neutral-300 px-20 py-20 ">
-      <div className="flex justify-between items-center">
-        <p className="text-center w-[600px] font-extrabold">
+    <footer className="w-full h-1/2 mt-40 bg-neutral-300 px-5 lg:px-20 py-20 ">
+      <div className="flex-col-reverse flex lg:flex-row justify-between items-center">
+        <p className="text-center mt-5 lg:mt-0 lg:w-[600px] font-extrabold">
           مرحبًا بكم في سيرفر الدعوة إلى الحق، مجلس علمي دعوي على منهج أهل السنة
           والجماعة، نسعى فيه لطلب العلم الشرعي الصحيح من مصادره الموثوقة، والعمل
           به، والدعوة إليه بالحكمة والموعظة الحسنة.
